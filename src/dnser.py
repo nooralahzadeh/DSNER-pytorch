@@ -14,7 +14,7 @@ import constants as C
 from vocab import Vocab
 from utils import load_word_vectors_EC, build_vocab, write_output
 from dataset import EC_PA_Datset
-from trainer import  MYTrainer_PA_SL_LightNER, MYTrainer_PA_LightNER
+from trainer import  Trainer_PA_SL_DSNER, Trainer_PA
 from model import  BiLSTM_CRF_PA_CRF_LightNER, policy_selector
 from conlleval import evaluate, tags_to_labels
 from weight_init import *
@@ -82,7 +82,7 @@ def parse_args():
     parser.add_argument('--setup', default='H',
                         help="which dataset: H, A+H")
 
-    parser.add_argument('--mode', default='PA',
+    parser.add_argument('--mode', default='SL',
                         help="Mode of training: PA+SL,PA ,SL, CRF")
 
     return parser.parse_args()
@@ -270,10 +270,10 @@ def main():
 
     if args.mode=='PA+SL':
         # if partial = False it will apply only selection with normal crf
-        trainer = MYTrainer_PA_SL_LightNER(args, tagger_model, sl_model, optimizer_tagger, optimizer_sl, criterion_sl, partial=True)
+        trainer = Trainer_PA_SL_DSNER(args, tagger_model, sl_model, optimizer_tagger, optimizer_sl, criterion_sl, partial=True)
     else:
         # the result of partial = False or partial =True should be same because we do not include the Partial annotation
-        trainer = MYTrainer_PA_LightNER(args, tagger_model, optimizer_tagger, partial=False)
+        trainer = Trainer_PA(args, tagger_model, optimizer_tagger, partial=False)
 
     best = -float('inf')
 
