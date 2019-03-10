@@ -44,8 +44,6 @@ class policy_selector(nn.Module):
         x = self.affine1(x)
         action_scores = self.affine2(x)
         return self.sigmoid(action_scores)
-
-
         return y_pred
 
 
@@ -74,7 +72,6 @@ class BiLSTM_CRF_PA_CRF_LightNER(nn.Module):
 
         self.tagset_size = len(tags_vocab)
         self.tags_vocab=tags_vocab
-        #self.highway_layers=1
 
 
         # Hierachical Bi-LSTM
@@ -121,18 +118,15 @@ class BiLSTM_CRF_PA_CRF_LightNER(nn.Module):
         w = self.dropout(w)
 
         mask = sequence_mask(w_lengths).float()
-        # w *= mask.unsqueeze(2)
+
         crf_scores = self.crf_layer(w)
         return  crf_scores, tags_one_hot, mask, w_lengths, word_sort_ind
 
     def forward_eval(self,inputs,lengths,tags):
         crf_scores, _, mask,w_lengths, word_sort_ind  = self._feature(inputs, lengths)
         loss = self.viterbiLoss(crf_scores, tags, mask)
-        # Remove timesteps we won't predict at, and also <end> tags, because to predict them would be cheating
-
         tmaps = tags[word_sort_ind] % self.tagset_size  # actual target indices (see dataset())
-        #tmaps.unsqueeze(0) # fake batch dimensio
-        #tmaps, _ = torch.nn.utils.rnn.pack_padded_sequence(tmaps, lm_lengths, batch_first=True)
+
         preds = self.viterbiDecoder.decode(crf_scores, mask)
         return loss, preds, w_lengths, tmaps, word_sort_ind
 

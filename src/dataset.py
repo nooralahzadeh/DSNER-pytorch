@@ -11,26 +11,21 @@ import constants as C
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-
 class EC_PA_Datset(data.Dataset):
-    def __init__(self, path, word_vocab, tags_vocab, tags_iobes_vocab, treetype="", cased=""):
+    def __init__(self, path, word_vocab, tags_vocab, tags_iobes_vocab, partial=False, treetype="", cased=""):
         super(EC_PA_Datset, self).__init__()
         self.maxlen = 75
         self.word_vocab = word_vocab
-
+        self.partial=partial
         self.sign= 1 if 'pa' in path else 0
-
         self.tags_vocab = tags_vocab
         self.tags_vocab_iobes= tags_iobes_vocab
         self.num_tags = {'iob':tags_vocab.size(),'iobes':tags_iobes_vocab.size()}
-
         self.sentences, self.signs, self.lengths = self.read_sentences(os.path.join(path, 'a%s%s.txt' % (treetype,cased)))
-
         self.tags, self.tags_one_hot = self.read_tags(os.path.join(path, 'tags%s.txt' % treetype))
         self.size = len(self.tags)
         self.tags_iobes, self.tags_iobes_one_hot = self.read_tags(os.path.join(path, 'tags-iobes%s.txt' % treetype),
                                                                   iobes=True)
-
 
     def __len__(self):
         return self.size
@@ -114,10 +109,11 @@ class EC_PA_Datset(data.Dataset):
         labels_for_encoding=[]
         UNK = tags_vocab['O']
         possible_tags=[tags_vocab[t] for t in tags_vocab if t not in [C.PAD_WORD,C.BOS_WORD]]
+
         for tmap in tmaps:
             label=[]
             for t  in tmap:
-                if self.sign == 1 and  t== UNK:
+                if self.sign == 1 and self.partial and  t== UNK:
                     label.append(possible_tags)
                 else:
                     label.append([t])

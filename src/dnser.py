@@ -82,9 +82,8 @@ def parse_args():
     parser.add_argument('--setup', default='H',
                         help="which dataset: H, A+H")
 
-    parser.add_argument('--mode', default='other',
+    parser.add_argument('--mode', default='PA',
                         help="Mode of training: PA+SL,PA ,SL, CRF")
-
 
     return parser.parse_args()
 
@@ -164,6 +163,9 @@ def main():
     #if os.path.isfile(train_file):
     #    train_dataset = torch.load(train_file)
     #else:
+
+
+
     train_dataset = EC_PA_Datset(train_dir, vocab, tags_vocab, tags_iobes_vocab)
     #torch.save(train_dataset, train_file)
     logger.debug('==> Size of train data   : %d ' % len(train_dataset))
@@ -189,7 +191,7 @@ def main():
     #if os.path.isfile(ds_pa_file):
      #   ds_pa_dataset = torch.load(ds_pa_file)
     #else:
-    ds_pa_dataset = EC_PA_Datset(ds_pa_dir, vocab, tags_vocab, tags_iobes_vocab)
+    ds_pa_dataset = EC_PA_Datset(ds_pa_dir, vocab, tags_vocab, tags_iobes_vocab, partial= True if 'PA' in args.mode else False)
     #torch.save(ds_pa_dataset, ds_pa_file)
     logger.debug('==> Size of ds pa data    : %d ' % len(ds_pa_dataset))
 
@@ -243,8 +245,6 @@ def main():
                               weight_decay=args.weight_decay)
 
 
-
-
     # word embedding
     emb_file = os.path.join(args.data, 'ner.embed.pth')
     if os.path.isfile(emb_file):
@@ -269,13 +269,12 @@ def main():
 
 
     if args.mode=='PA+SL':
-
         # if partial = False it will apply only selection with normal crf
         trainer = MYTrainer_PA_SL_LightNER(args, tagger_model, sl_model, optimizer_tagger, optimizer_sl, criterion_sl, partial=True)
     else:
-
-        # the result of partial =False or partial =True should be same because we dont include the Partial annotation
+        # the result of partial = False or partial =True should be same because we do not include the Partial annotation
         trainer = MYTrainer_PA_LightNER(args, tagger_model, optimizer_tagger, partial=False)
+
     best = -float('inf')
 
 
@@ -287,8 +286,8 @@ def main():
         dataset_setup = train_dataset
 
     #print(tagger_model)
-    f1s={}
 
+    f1s={}
     for epoch in range(args.epochs):
 
         if args.mode == 'PA+SL':
