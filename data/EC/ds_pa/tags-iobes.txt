@@ -1,0 +1,2560 @@
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	B-cp	E-cp	O	B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O
+O	O	O	B-pp	E-pp	B-pp	E-pp	O
+B-pp	I-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	I-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O
+B-xh	I-xh	E-xh	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	B-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-pp	E-pp
+O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	B-cp	E-cp	O
+B-pp	E-pp	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	B-gg	E-gg
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+O	O	B-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-pp	E-pp
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	I-cp	E-cp	B-gg	E-gg
+B-pp	E-pp	B-cp	I-cp	E-cp	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	B-gg	E-gg	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-xh	I-xh	E-xh	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+B-pp	E-pp	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+B-cp	E-cp	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+B-pp	E-pp	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp
+B-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	I-cp	E-cp	B-gg	E-gg	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O
+B-pp	E-pp	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	B-pp	E-pp
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-pp	E-pp	O	O	O	O	O
+B-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	B-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-gg	E-gg
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	B-gg	E-gg
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	B-pp	E-pp	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	E-cp	O
+O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-gg	I-gg	E-gg	O	O	O
+B-pp	I-pp	I-pp	E-pp
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	B-gg	E-gg	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	B-pp	I-pp	E-pp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp
+O	O	O	B-pp	I-pp	E-pp	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	B-gg	I-gg	E-gg
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp
+O	O	O	B-cp	E-cp	B-pp	E-pp
+B-pp	I-pp	E-pp	B-xh	E-xh	O	O	O
+O	O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	B-gg	E-gg	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-pp	E-pp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	B-gg	E-gg
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-gg	E-gg	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-gg	E-gg
+O	O	O	B-cp	E-cp	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-gg	E-gg	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O	O	O	O	O	O	O	O	O	O	O	B-gg	E-gg
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-xh	E-xh
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp
+B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+B-pp	E-pp
+B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	B-gg	E-gg
+O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-xh	E-xh	O	O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	E-cp
+B-pp	E-pp	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	B-gg	E-gg	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	B-pp	E-pp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-pp	E-pp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	I-pp	E-pp
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	I-cp	E-cp	O	O
+B-cp	E-cp	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-gg	E-gg
+O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	B-gg	E-gg
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O	B-gg	E-gg
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-xh	E-xh	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	I-cp	I-cp	E-cp
+O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-gg	E-gg	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-pp	E-pp	O	O	O	O	B-pp	E-pp	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	O	O	O	B-gg	E-gg
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	B-pp	I-pp	E-pp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-xh	E-xh	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-pp	I-pp	E-pp
+B-pp	E-pp	B-xh	I-xh	E-xh	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-pp	I-pp	E-pp
+B-pp	E-pp	O	O	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	B-pp	E-pp
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	B-pp	I-pp	E-pp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+B-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O	B-cp	I-cp	E-cp	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp
+B-cp	E-cp	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-gg	E-gg
+O	B-cp	E-cp	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-xh	E-xh
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-pp	E-pp	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	B-gg	E-gg	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-pp	I-pp	E-pp
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-pp	E-pp	O	O	O
+O	B-pp	I-pp	E-pp	O	O	O
+O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	B-gg	E-gg
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-pp	I-pp	I-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	B-pp	E-pp
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp	B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	B-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	B-xh	E-xh
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+B-pp	I-pp	I-pp	E-pp
+O	O	O	O	O	O	B-cp	E-cp	O	B-gg	I-gg	I-gg	I-gg	E-gg
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	B-xh	E-xh
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O
+B-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-pp	E-pp	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	B-xh	I-xh	E-xh
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	B-gg	I-gg	E-gg	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-pp	I-pp	E-pp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O
+O	O	O	O	O	O	B-gg	E-gg	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	B-pp	E-pp
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+B-cp	E-cp	B-pp	E-pp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	I-pp	E-pp	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp
+O	O	B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	B-gg	E-gg
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	B-pp	I-pp	I-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp
+B-cp	E-cp	O	B-pp	E-pp	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-pp	I-pp	E-pp	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	B-pp	I-pp	E-pp	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	I-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+B-pp	E-pp	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+B-pp	E-pp	O	O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	O	O	B-cp	E-cp	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	B-gg	E-gg
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	B-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+B-cp	I-cp	E-cp
+B-pp	E-pp	O
+O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp
+B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O
+O	O	O	O	O	O	B-gg	E-gg
+O	O	O	B-cp	E-cp	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O
+B-pp	I-pp	E-pp
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O
+O	O	O	B-gg	E-gg	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	E-pp	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O	B-cp	E-cp	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	B-pp	I-pp	E-pp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	B-gg	E-gg	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+B-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp
+O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O
+O	O	O	B-pp	E-pp	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O
+O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	I-cp	E-cp	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp
+B-cp	E-cp
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg
+B-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-xh	E-xh
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	E-pp	B-xh	I-xh	E-xh
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	I-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-xh	E-xh
+O	O	O	O	B-pp	E-pp
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O	B-gg	E-gg
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp
+O	O	O	B-pp	E-pp	O	O	O
+B-cp	E-cp
+O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O
+B-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	B-pp	I-pp	E-pp
+B-pp	I-pp	E-pp	O	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	I-cp	E-cp
+O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-pp	E-pp	B-cp	E-cp	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	B-xh	E-xh
+B-cp	E-cp	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O
+O	O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	O
+O	O	O	B-pp	E-pp	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	B-xh	E-xh	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	O	B-cp	E-cp	O
+B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	B-pp	I-pp	E-pp	O	O	O
+B-pp	E-pp	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	B-gg	E-gg
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp	O
+O	B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O
+B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	E-cp	B-gg	I-gg	E-gg	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-pp	I-pp	E-pp
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	I-cp	E-cp	B-gg	E-gg	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-pp	E-pp	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	B-pp	I-pp	E-pp
+B-pp	E-pp	O	O	O	B-cp	E-cp	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-gg	E-gg	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	B-gg	E-gg
+O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	B-xh	E-xh	O	O	O	O	O	O
+O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	B-xh	E-xh	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-gg	E-gg	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp	O
+O	O	O	B-pp	I-pp	E-pp	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O
+B-pp	E-pp
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-gg	E-gg
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	B-gg	E-gg
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-pp	E-pp
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp	B-pp	E-pp	O	O	O
+B-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	B-cp	E-cp
+B-pp	E-pp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	O	B-cp	E-cp
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	B-cp	E-cp	O	O	O
+O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-xh	E-xh
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	I-cp	E-cp	B-gg	E-gg
+O	O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	B-pp	E-pp	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	B-gg	I-gg	I-gg	I-gg	E-gg
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	O	B-gg	E-gg
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	I-cp	I-cp	E-cp	O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	B-pp	E-pp	O	O	O
+B-cp	E-cp	O	O
+B-pp	E-pp	O	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	B-gg	E-gg
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	B-pp	I-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	B-gg	I-gg	I-gg	I-gg	E-gg
+O	O	O	B-pp	E-pp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	B-cp	E-cp	O	O	O
+B-pp	E-pp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	B-pp	E-pp
+O	O	O	O	B-gg	I-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-gg	E-gg	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+B-pp	I-pp	E-pp	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-xh	E-xh	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	I-cp	I-cp	I-cp	E-cp	B-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	B-pp	I-pp	E-pp
+O	O	O	O	B-gg	E-gg	O	O	O
+B-pp	E-pp
+B-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	B-pp	E-pp
+O	O	O	O	B-cp	E-cp
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-pp	E-pp	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	B-pp	I-pp	E-pp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-pp	I-pp	I-pp	E-pp
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O
+B-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	B-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-pp	I-pp	E-pp	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+B-pp	E-pp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	B-pp	I-pp	I-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O
+O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp
+B-cp	I-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	O	O	O	O	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp
+O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-pp	E-pp	O	O	O	O	O
+B-pp	E-pp	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	B-pp	E-pp
+O	O	O	B-pp	E-pp	O	O	O	O	O
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O
+O	O	O	O	O	B-pp	I-pp	E-pp
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp
+B-gg	E-gg	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O
+O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-gg	E-gg
+B-cp	E-cp	O	B-gg	I-gg	I-gg	E-gg	O	O	O
+O	O	O	O	O	B-pp	E-pp	O	O
+B-cp	E-cp	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O	B-gg	E-gg
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-pp	I-pp	E-pp
+B-cp	I-cp	E-cp	O	B-pp	E-pp	O	O	O
+O	O	O	B-cp	E-cp	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O
+O	O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	B-pp	E-pp
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp
+O	B-cp	I-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O	O	O
+B-pp	E-pp	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	B-cp	I-cp	E-cp	B-xh	I-xh	E-xh	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	O	B-gg	E-gg
+O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-pp	E-pp	B-cp	E-cp	B-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-gg	E-gg	O	O	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp
+B-cp	I-cp	I-cp	E-cp	B-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	B-pp	E-pp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	B-gg	E-gg
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp
+O	B-gg	E-gg	O	O	O
+B-cp	E-cp	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+B-pp	I-pp	E-pp	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O	O	O	B-cp	I-cp	E-cp
+B-pp	E-pp	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	E-pp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-pp	E-pp	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O	O	O
+B-pp	E-pp	B-cp	I-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O
+B-pp	I-pp	E-pp	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	B-cp	E-cp
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	B-cp	E-cp	O
+B-pp	E-pp	O	O	O	O	O	O	O	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+B-pp	E-pp	O	B-gg	E-gg	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	B-cp	I-cp	E-cp	B-cp	E-cp
+O	O	B-cp	E-cp
+B-pp	E-pp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O
+O	B-cp	E-cp	B-pp	E-pp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O	B-cp	E-cp
+O	B-pp	I-pp	E-pp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	O	O	O	B-cp	I-cp	I-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	E-cp	B-cp	E-cp	O	O
+O	O	O	B-cp	E-cp	O
+B-cp	E-cp	O	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	B-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	B-cp	E-cp	O	B-cp	E-cp	O	O
+O	O	O	O	O	B-xh	E-xh
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+B-cp	E-cp	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-cp	I-cp	I-cp	I-cp	E-cp
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O
+B-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	E-cp	O	B-gg	E-gg
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	I-pp	E-pp	B-cp	I-cp	I-cp	E-cp
+O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-pp	E-pp	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	B-pp	E-pp	O	O
+O	O	O	B-cp	E-cp	O
+O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O
+O	O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	E-pp	B-cp	E-cp	O
+B-pp	E-pp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	O	B-cp	E-cp	O	O	O	O	O
+O	O	O	B-pp	E-pp	O	O	O	O	O	O	O
+B-pp	I-pp	I-pp	E-pp	O	O	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O
+O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	I-cp	I-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	E-cp
+O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	B-cp	E-cp
+O	B-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp
+O	O	B-cp	E-cp	O	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O	O	O	O	O	O	O	O
+O	O	B-cp	E-cp	O	O	O	O	O	O	O
+B-cp	I-cp	E-cp	O	O	O	O	O	O	O
+B-pp	E-pp	O	O
+O	O	O	O	O	B-cp	E-cp	O	O	O
+O	O	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	B-cp	E-cp	O	O	O	O	O	O
+B-pp	I-pp	E-pp	O	O	O	O	O	O
+O	B-cp	E-cp
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-cp	E-cp	O	O	O
+O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	O	O	O
+B-cp	E-cp	O	O	O	O
+B-cp	E-cp	B-cp	I-cp	E-cp	O	O	O
+O	O	O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	O	O	O	O	O	B-cp	E-cp
+O	O	O	B-pp	I-pp	I-pp	E-pp	O	B-gg	E-gg
+B-cp	E-cp	O	O	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+O	O	B-cp	E-cp	O	O	O
+O	O	O	B-pp	I-pp	E-pp	O	O	O	O
+B-pp	E-pp	O	O	O
+O	O	O	B-xh	I-xh	E-xh	O	O	O	B-cp	E-cp	O
+O	O	O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O	O	B-cp	E-cp	O	O	O
+O	O	B-cp	I-cp	E-cp	O	O	O
+B-cp	E-cp	O
+O	O	B-cp	E-cp	O	O	O
