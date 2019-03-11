@@ -136,3 +136,8 @@ class BiLSTM_CRF_PA_CRF_LightNER(nn.Module):
         return  loss
 
 
+    def forward_sl(self,inputs,lengths,tags):
+        crf_scores, _, mask, w_lengths, word_sort_ind = self._feature(inputs, lengths)
+        tmaps = tags[word_sort_ind] % self.tagset_size  # actual target indices (see dataset())
+        preds = self.viterbiDecoder.decode(crf_scores, mask)
+        return  preds, w_lengths, tmaps, word_sort_ind

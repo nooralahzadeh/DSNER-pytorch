@@ -25,7 +25,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="PyTorch TreeLSTM + CRF for NER in PR")
+    parser = argparse.ArgumentParser(description="PyTorch implementation of Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning ")
     base_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     data_dir = os.path.join(base_dir, 'data')
 

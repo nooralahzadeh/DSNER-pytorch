@@ -6,7 +6,7 @@ import math
 import numpy as np
 import torch.nn.functional as F
 import constants as C
-
+from conlleval import tags_to_labels,evaluate
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
@@ -468,7 +468,6 @@ class MYTrainer_PA_SL(object):
         self.tagger_model = tagger_mdl
         self.sl_model = sl_mdl
         self.criterion_sl = criterion_sl
-
         self.tagset_size = tagger_mdl.tagset_size
         self.o_tag = tagger_mdl.tags_vocab['O']
         self.pad_tag = tagger_mdl.tags_vocab[C.PAD_WORD]
@@ -547,9 +546,10 @@ class MYTrainer_PA_SL(object):
                 '''
                 if len(y_label_in_batch) > 0:
                     # calculate reward as r=1/(|A_i| +|H_i|) *(sum(log p(z|x)) + sum(log p(y|x)) just for EXperts and PA that selector choose
-                    reward = self.get_reward(X_char_batch, s_length_batch, y_one_hot_batch)
+                    reward = self.get_reward(X_char_batch, s_length_batch,y_batch, y_one_hot_batch)
                     reward_list = [reward for i in range(len(y_label_in_batch))]
-                    # @todo convert to cuda:
+
+                    # how to model state : s_i: PA_sentense_representation,  s_(i-1): ?
                     self.optimize_selector(PA_sentense_representation, y_label_in_batch, reward_list)
 
                 total_PA_num += PA_num_in_batch
@@ -609,7 +609,7 @@ class MYTrainer_PA_SL(object):
             y_one_hot_all.extend(y_one_hot_batch)
 
             if len(y_label_in_batch) > 0:
-                reward = self.get_reward(X_char_batch, s_length_batch, y_one_hot_batch)
+                reward = self.get_reward(X_char_batch, s_length_batch, y_batch, y_one_hot_batch)
                 reward_list = [reward for i in range(len(y_label_in_batch))]
                 # just for PA (0,1)
                 self.optimize_selector(PA_sentense_representation, y_label_in_batch, reward_list)
@@ -645,7 +645,7 @@ class MYTrainer_PA_SL(object):
         # Decay learning rate every epoch
         return total_loss
 
-    def get_reward(self, x_words, lengths, y_tags_one_hot):
+    def get_reward(self, x_words, lengths,y_tags, y_tags_one_hot,F1_previous=0):
         self.tagger_model.eval()
         with torch.no_grad():
             x_words = torch.stack(x_words)
@@ -654,7 +654,13 @@ class MYTrainer_PA_SL(object):
             y_tags_one_hot = torch.stack(y_tags_one_hot)
             batch_loss = self.tagger_model(x_words, lengths, y_tags_one_hot)
             reward = -1 * (batch_loss / self.args.batch_size)
-        return reward
+            # pr, recall, f1
+            preds, w_lengths, tmaps, word_sort_ind= self.tagger_model.forward_sl(x_words, lengths, y_tags)
+            actual_tags_2_label, pred_2_label=tags_to_labels(y_tags, preds, self.tagger_mdl.tags_vocab,
+                                   self.args.iobes)
+            prec, rec, f1 = evaluate(actual_tags_2_label, actual_tags_2_label, verbose=False)
+
+        return reward,f1
 
     def select_action(self, state):
         # state = torch.from_numpy(state).float().unsqueeze(0)
