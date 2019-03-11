@@ -1,7 +1,13 @@
 # DNSER-pytorch
 Pytorch implementation of  :https://github.com/rainarch/DSNER
 
-main module: dsner.py
+python 3.6
+
+pytorch
+
+First: python script/preprocess-EC
+
+main module: python dsner.py
 
 args parameters should be define based on the paper
 
