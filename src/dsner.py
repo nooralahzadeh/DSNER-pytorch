@@ -368,8 +368,8 @@ def main():
                                                                  args.seed)
             logger.debug('==> New optimum found, checkpointing everything now...')
             torch.save(checkpoint, '%s.pt' % os.path.join(args.save, filename))
-
-            f1s[epoch] = {'T': [round(train_f1,2)], 'D': [round(dev_f1,2)], 'E': [round(test_f1,2)]}
+            train_f1 = train_f1 if train_f1 == 'NAN' else round(train_f1, 2)
+            f1s[epoch] = {'T': [train_f1], 'D': [round(dev_f1,2)], 'E': [round(test_f1,2)]}
             print(f1s)
 
     out_name = 'ner-{}-{}-{}'.format(dataset, args.mode, args.setup)
