@@ -215,23 +215,15 @@ class MYTrainer_PA_SL(object):
         # state = torch.from_numpy(state).float().unsqueeze(0)
         self.sl_model.eval()
         prob = self.sl_model(state)
-
         return prob.item()
 
-    def get_action(self, prob):
-        tmp = prob[0]
-        result = np.random.rand()
-        if result > 0 and result < tmp:
-            return 1
-        elif result >= tmp and result < 1:
-            return 0
+    def select_action(self,state):
+        probs = self.sl_model(state)
+        m = Categorical(probs)
+        action = m.sample()
+        policy.saved_log_probs.append(m.log_prob(action))
+        return action.item()
 
-    def decide_action(self, prob):
-        tmp = prob[0]
-        if tmp >= 0.5:
-            return 1
-        elif tmp < 0.5:
-            return 0
 
     def optimize_selector(self, x_representations, y_select, rewards):
         self.sl_model.train()
@@ -247,7 +239,7 @@ class MYTrainer_PA_SL(object):
         neg_log_prob = self.criterion_sl(y_preds, y_select)
         rewards = torch.FloatTensor(rewards).to(device)
         policy_loss = torch.sum(neg_log_prob * rewards)
-        policy_loss = neg_log_prob * rewards
+        #policy_loss = neg_log_prob * rewards
 
         lambda1, lambda2 = 0.003, 0.003
         all_linear1_params = torch.cat([x.view(-1) for x in self.sl_model.affine1.parameters()])
@@ -255,8 +247,8 @@ class MYTrainer_PA_SL(object):
         l1_regularization = lambda1 * torch.norm(all_linear1_params, 1)
         l2_regularization = lambda2 * torch.norm(all_linear2_params, 2)
         policy_loss += l1_regularization + l2_regularization
-        torch.autograd.backward(policy_loss,grad_tensors=torch.ones_like(policy_loss))
-        #policy_loss.backward()
+        #torch.autograd.backward(policy_loss,grad_tensors=torch.ones_like(policy_loss))
+        policy_loss.backward()
         self.optimizer_sl.step()
 
     def get_representation(self, X_char, y_char, length):

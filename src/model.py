@@ -44,7 +44,7 @@ class policy_selector(nn.Module):
         x = self.affine1(x)
         action_scores = self.affine2(x)
         return self.sigmoid(action_scores)
-        return y_pred
+
 
 
 
