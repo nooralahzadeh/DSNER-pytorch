@@ -298,13 +298,12 @@ class Trainer_PA_SL_DSNER(object):
             sents = sents[:, :max_word_len]
             tags = tags[:, :max_word_len]
             s_lengths = s_lengths.to(device)
-            loss, decoded, w_lengths, tags_sorted, = self.tagger_model.forward_eval(sents, s_lengths,tags)
+            loss, decoded, w_lengths, tags_sorted = self.tagger_model.forward_eval(sents, s_lengths,tags)
 
             decoded = decoded.transpose(1, 0)
             decoded_sorted = [decoded[:length-1] for decoded, length in zip(decoded, w_lengths)]
             tags_sorted = [tag[:length-1] for tag, length in zip(tags_sorted, w_lengths)]
-            sents_sorted = [sent[:length-1] for sent, length in zip(sents, w_lengths)]
-            sents_decoded.extend(sents_sorted)
+
             predictions.extend(decoded_sorted)
 
             total_loss += float(loss)
@@ -312,7 +311,7 @@ class Trainer_PA_SL_DSNER(object):
 
         total_loss = float(total_loss / len(val_loader))
 
-        return total_loss, predictions, sents_decoded, actual_tags
+        return total_loss, predictions, actual_tags
 class Trainer_PA(object):
     """"""
 
@@ -442,21 +441,17 @@ class Trainer_PA(object):
             tags = tags[:, :max_word_len].to(device)
 
             s_lengths = s_lengths.to(device)
-            loss, decoded, w_lengths, tags_sorted, word_sort_ind= self.tagger_model.forward_eval(sents, s_lengths,tags)
+            loss, decoded, w_lengths, tags_sorted = self.tagger_model.forward_eval(sents, s_lengths,tags)
 
             decoded=decoded.transpose(1,0)
             decoded_sorted = [decoded[:length-1] for decoded, length in zip(decoded, w_lengths)]
             # Remove timesteps we won't predict at, and also <end> tags, because to predict them would be cheating
             tags_sorted=[tag[:length-1] for tag, length in zip(tags_sorted, w_lengths)]
-            sents_sorted=sents[word_sort_ind]
-            sents_sorted = [sent[:length-1] for sent, length in zip(sents_sorted, w_lengths)]
-
-            sents_decoded.extend(sents_sorted)
             predictions.extend(decoded_sorted)
             total_loss += loss
             actual_tags.extend(tags_sorted)
         total_loss = float(total_loss / len(val_loader))
-        return total_loss, predictions, sents_decoded, actual_tags
+        return total_loss, predictions, actual_tags
 
 
 

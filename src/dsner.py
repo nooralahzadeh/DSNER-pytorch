@@ -320,7 +320,7 @@ def main():
 
         dev_loader = torch.utils.data.DataLoader(dev_dataset, batch_size=args.batch_size, shuffle=False,
                                                  num_workers=1, pin_memory=False)
-        dev_loss, dev_pred, dev_sent, dev_actual_tags = trainer.test(dev_loader)
+        dev_loss, dev_pred,  dev_actual_tags = trainer.test(dev_loader)
 
         dev_actual_tags = [[int(t) for t in tags.cpu().numpy()] for tags in dev_actual_tags]
         dev_pred = [[int(t) for t in tags.cpu()] for tags in dev_pred]
@@ -339,7 +339,7 @@ def main():
             test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False,
                                                      num_workers=1, pin_memory=False)
 
-            test_loss, test_pred, test_sent, test_actual_tags = trainer.test(test_loader)
+            test_loss, test_pred,  test_actual_tags = trainer.test(test_loader)
 
             test_actual_tags = [[int(t) for t in tags.cpu().numpy()] for tags in test_actual_tags]
             test_pred = [[int(t) for t in tags.cpu()] for tags in test_pred]
