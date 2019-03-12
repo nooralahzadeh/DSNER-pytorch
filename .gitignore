@@ -1,6 +1,7 @@
 # project
 data/EC/embeddings/
 src/checkpoints/
+src/DSRL/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

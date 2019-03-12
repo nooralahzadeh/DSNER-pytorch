@@ -4,7 +4,7 @@ import torch
 from vocab import Vocab
 import math
 from tqdm import tqdm
-
+import numpy as np
 from typing import List, Tuple
 import re
 
@@ -476,3 +476,25 @@ def normalize_string(s):
     s = re.sub(r"([.!?])", r" \1", s)
     s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
     return s
+
+
+
+
+def nextBatch(X_char, s_lengths,y_one_hots, start_index, batch_size=128):
+    last_index = start_index + batch_size
+    X_char_batch = list(X_char[start_index:min(last_index, len(X_char))])
+    #y_batch = list(y[start_index:min(last_index, len(X_char))])
+    s_lengths_batch=list(s_lengths[start_index:min(last_index, len(s_lengths))])
+    y_one_hots_batch = list(y_one_hots[start_index:min(last_index, len(y_one_hots))])
+
+    if last_index > len(X_char):
+        left_size = last_index - (len(X_char))
+        for i in range(left_size):
+            index = np.random.randint(len(X_char))
+            X_char_batch.append(X_char[index])
+            #y_batch.append(y[index])
+            s_lengths_batch.append((s_lengths[index]))
+            y_one_hots_batch.append((y_one_hots[index]))
+
+
+    return X_char_batch, s_lengths_batch, y_one_hots_batch
