@@ -11,7 +11,7 @@ main module: python dsner.py
 
 args parameters should be define based on the paper
 
-Result:
+Result: Dev and Test respectively
 
 |	Model      |	Setup  |   epoch   |   P   |   R   |   F1  |  P    | R     | F1    |
 |--------------|-----------|-----------|-------|-------|-------|-------|-------|-------|
