@@ -311,8 +311,9 @@ def main():
                                    args.iobes)
 
             prec, rec, train_f1 = evaluate(actual_tags_2_label,train_pred_2_label, verbose=False)
+            train_f1 = round(train_f1, 2)
 
-        print('==> Epoch {}, Train \tLoss: {:.2f}\tf1: {:.2f}'.format(epoch + 1, train_loss, train_f1))
+        print('==> Epoch {}, Train \tLoss: {:.2f}\tf1: {}'.format(epoch + 1, train_loss, train_f1))
 
         if args.cuda:
             torch.cuda.empty_cache()

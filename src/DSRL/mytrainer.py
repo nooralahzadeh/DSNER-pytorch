@@ -7,15 +7,17 @@ import torch.nn.functional as F
 import constants as C
 from conlleval import tags_to_labels,evaluate
 from utils import nextBatch
+from torch.distributions import Categorical
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class MYTrainer_PA_SL(object):
     """"""
-    def __init__(self, args, tagger_mdl, sl_mdl, optimizer_tagger, optimizer_sl, criterion_sl, partial):
+    def __init__(self, args, tagger_mdl, policy, optimizer_tagger, optimizer_policy, criterion_sl, partial):
         """"""
         self.args = args
         self.tagger_model = tagger_mdl
-        self.sl_model = sl_mdl
+        self.policy = policy
         self.criterion_sl = criterion_sl
         self.tagset_size = tagger_mdl.tagset_size
         self.o_tag = tagger_mdl.tags_vocab['O']
@@ -35,7 +37,7 @@ class MYTrainer_PA_SL(object):
         #
 
         self.optimizer_tagger = optimizer_tagger
-        self.optimizer_sl = optimizer_sl
+        self.optimizer_policy = optimizer_policy
         self.epoch = 0
         self.partial = partial
 
@@ -97,9 +99,8 @@ class MYTrainer_PA_SL(object):
                     # calculate reward as r=1/(|A_i| +|H_i|) *(sum(log p(z|x)) + sum(log p(y|x)) just for EXperts and PA that selector choose
                     reward = self.get_reward(X_char_batch, s_length_batch,y_batch, y_one_hot_batch)
                     reward_list = [reward for i in range(len(y_label_in_batch))]
-
                     # how to model state : s_i: PA_sentense_representation,  s_(i-1): ?
-                    self.optimize_selector(PA_sentense_representation, y_label_in_batch, reward_list)
+                    self.optimize_selector(reward_list)
 
                 total_PA_num += PA_num_in_batch
                 exist_num_in_batch = 0
@@ -161,7 +162,7 @@ class MYTrainer_PA_SL(object):
                 reward = self.get_reward(X_char_batch, s_length_batch, y_batch, y_one_hot_batch)
                 reward_list = [reward for i in range(len(y_label_in_batch))]
                 # just for PA (0,1)
-                self.optimize_selector(PA_sentense_representation, y_label_in_batch, reward_list)
+                self.optimize_selector(reward_list)
 
 
         # optimize baseline
@@ -204,52 +205,39 @@ class MYTrainer_PA_SL(object):
             batch_loss = self.tagger_model(x_words, lengths, y_tags_one_hot)
             reward = -1 * (batch_loss / self.args.batch_size)
             # pr, recall, f1
-            preds, w_lengths, tmaps, word_sort_ind= self.tagger_model.forward_sl(x_words, lengths, y_tags)
-            actual_tags_2_label, pred_2_label=tags_to_labels(y_tags, preds, self.tagger_mdl.tags_vocab,
-                                   self.args.iobes)
-            prec, rec, f1 = evaluate(actual_tags_2_label, actual_tags_2_label, verbose=False)
+            #preds, w_lengths, tmaps, word_sort_ind= self.tagger_model.forward_sl(x_words, lengths, y_tags)
+            #actual_tags_2_label, pred_2_label=tags_to_labels(y_tags, preds, self.tagger_mdl.tags_vocab,
+            #                       self.args.iobes)
+            #prec, rec, f1 = evaluate(actual_tags_2_label, actual_tags_2_label, verbose=False)
 
-        return reward,f1
-
-    def select_action(self, state):
-        # state = torch.from_numpy(state).float().unsqueeze(0)
-        self.sl_model.eval()
-        prob = self.sl_model(state)
-        return prob.item()
+        return reward
 
     def select_action(self,state):
-        probs = self.sl_model(state)
+        probs = self.policy(state)
         m = Categorical(probs)
         action = m.sample()
-        policy.saved_log_probs.append(m.log_prob(action))
+        self.policy.saved_log_probs.append(m.log_prob(action))
         return action.item()
 
 
-    def optimize_selector(self, x_representations, y_select, rewards):
-        self.sl_model.train()
-        self.optimizer_sl.zero_grad()
-        #eps = np.finfo(np.float32).eps.item()
 
-        x_representations = torch.stack(x_representations).to(device)
-        y_select = torch.FloatTensor(y_select).to(device)
-
-        y_preds = self.sl_model(x_representations)
-        y_preds = y_preds.squeeze(2).squeeze(1)
-
-        neg_log_prob = self.criterion_sl(y_preds, y_select)
-        rewards = torch.FloatTensor(rewards).to(device)
-        policy_loss = torch.sum(neg_log_prob * rewards)
-        #policy_loss = neg_log_prob * rewards
-
-        lambda1, lambda2 = 0.003, 0.003
-        all_linear1_params = torch.cat([x.view(-1) for x in self.sl_model.affine1.parameters()])
-        all_linear2_params = torch.cat([x.view(-1) for x in self.sl_model.affine1.parameters()])
-        l1_regularization = lambda1 * torch.norm(all_linear1_params, 1)
-        l2_regularization = lambda2 * torch.norm(all_linear2_params, 2)
-        policy_loss += l1_regularization + l2_regularization
-        #torch.autograd.backward(policy_loss,grad_tensors=torch.ones_like(policy_loss))
+    def optimize_selector(self,rewards):
+        eps = np.finfo(np.float32).eps.item()
+        R = 0
+        policy_loss = []
+        returns = []
+        for r in rewards:
+            R = r + self.args.gamma * R
+            returns.insert(0, R)
+        returns = torch.tensor(returns)
+        returns = (returns - returns.mean()) / (returns.std() + eps)
+        for log_prob, R in zip(self.policy.saved_log_probs, returns):
+            policy_loss.append(-log_prob * R)
+        self.optimizer_policy.zero_grad()
+        policy_loss = torch.cat(policy_loss).sum()
         policy_loss.backward()
-        self.optimizer_sl.step()
+        self.optimizer_policy.step()
+        del self.policy.saved_log_probs[:]
 
     def get_representation(self, X_char, y_char, length):
         # concat sample_representation and tag_representation
