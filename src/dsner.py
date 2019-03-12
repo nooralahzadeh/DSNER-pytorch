@@ -302,7 +302,7 @@ def main():
             train_loader_test = torch.utils.data.DataLoader(train_dataset, batch_size=args.batch_size, shuffle=False,
                                                     num_workers=1, pin_memory=False)
 
-            train_loss, train_pred, train_sent ,actual_tags = trainer.test(train_loader_test)
+            train_loss, train_pred ,actual_tags = trainer.test(train_loader_test)
             actual_tags = [[int(t) for t in tags.cpu().numpy()] for tags in actual_tags]
             train_pred = [[int(t) for t in tags.cpu().numpy()] for tags in train_pred]
 
