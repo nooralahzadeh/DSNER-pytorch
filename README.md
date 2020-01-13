@@ -21,5 +21,6 @@ Result: Dev and Test respectively
 |LSTm+CRF+PA   |  H+A      |	652    |62.21 %|70.11 %|65.93 %|61.12 %|67.63 %|64.21 %|
 |LSTm+CRF+PA+SL|H+A	       |    370    |69.12 %|71.16 %|70.12 %|63.46 %|63.94 %|63.70 %|
 
-Another paper which is used RL as post-Processing for denoising with different reward formula:
+Another paper which is used RL as a post-Processing for denoising with a different reward formula:
+
 Reinforcement-based denoising of distantly supervised NER with partial annotation : https://www.aclweb.org/anthology/D19-6125/
